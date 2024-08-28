@@ -1460,7 +1460,7 @@ a.tel_tap+p {
   }
 
   .doctor_content p {
-    font-size: 3.4rem !important;
+    font-size: 4.2rem !important;
   }
 
   .d_comment {
@@ -1481,7 +1481,7 @@ a.tel_tap+p {
 
   .access .text p,
   .modal .text p {
-    font-size: 2.8rem;
+    font-size: 3rem;
   }
 
   p.copyright {
@@ -1926,7 +1926,8 @@ a.tel_tap+p {
 
   .p_tanto {
     margin-top: 13px;
-    font-size: 16px;
+    font-size: 4.2rem;
+    line-height: 2.0;
   }
 
   .p_tanto strong {
@@ -1960,7 +1961,7 @@ a.tel_tap+p {
   }
 
   .step_title {
-    font-size: 4rem;
+    font-size: 4.8rem;
     padding: 5px;
     background-color: #f7ecea;
     border-radius: 5px;
@@ -1971,7 +1972,7 @@ a.tel_tap+p {
   }
 
   .step_content {
-    font-size: 3rem;
+    font-size: 4.2rem;
     text-align: left;
     float: none;
     width: 100%;
@@ -2623,7 +2624,7 @@ a.modal_annotation-open {
   }
 
   .method_detail table tr td {
-    font-size: 3rem;
+    font-size: 4.2rem;
   }
 
   .method_detail table tr td,
@@ -2632,7 +2633,7 @@ a.modal_annotation-open {
   }
 
   .method_detail table tr th {
-    font-size: 3.5rem;
+    font-size: 4.2rem;
     width: 21rem;
   }
 
